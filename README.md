@@ -1,5 +1,5 @@
 # DO NOT COPY
-I publish this repo so you can use as good reference resource. **NOT FOR YOU TO GIT CLONE AND HAND IN.**
+I publish this repo so you can use as a good reference resource. **NOT FOR YOU TO GIT CLONE AND HAND IN.**
 Just wanna let you know. ;-;
 
 ## This is CHEEWA final project
